@@ -12,7 +12,6 @@ import 'views/verifyEmail.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
-  // Permission.storage.request();
   runApp(const MyApp());
 }
 
